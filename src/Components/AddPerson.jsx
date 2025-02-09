@@ -51,7 +51,7 @@ const AddPerson = () => {
       email: emailField.value,
       work: workField.value,
       photos: [
-        "https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU",
+       "https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif",
       ], //temp dummy photo
     });
   };
