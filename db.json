@@ -1,22 +1,22 @@
 {
   "people": [
     {
-      "firstName": "Hamza",
-      "lastName": "El Rachdi",
+      "firstName": "Sarah",
+      "lastName": "El Rashidi",
       "age": 19,
       "floor": 3,
       "orientation": "R",
       "relationship": "Single",
       "kids": 0,
-      "gender": "Male",
+      "gender": "Female",
       "id": "1",
-      "email": "hmr23@mail.aub.edu",
+      "email": "1234@gmail.com",
       "work": "WWWWWWWWWWWWWWWWW",
       "photos": ["https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif"]
     },
     {
-      "firstName": "Hamza",
-      "lastName": "El Rachdi",
+      "firstName": "Someone",
+      "lastName": "El someone",
       "age": 19,
       "floor": 3,
       "orientation": "R",
@@ -24,7 +24,7 @@
       "kids": 0,
       "gender": "Male",
       "id": "33",
-      "email": "hmr23@mail.aub.edu",
+      "email": "1234@gmail.com",
       "work": "WWWWWWWWWWWWWWWWW",
       "photos": ["https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif"
       ]
@@ -72,21 +72,20 @@
     },
     {
       "person": {
-        "firstName": "Hamza",
-        "lastName": "El Rachdi",
+        "firstName": "Sarah",
+        "lastName": "El Rashidi",
         "age": 19,
         "floor": 3,
         "orientation": "R",
         "relationship": "Single",
         "kids": 0,
-        "gender": "Male",
-        "id": 33,
-        "email": "hmr23@mail.aub.edu",
+        "gender": "Female",
+        "id": "1",
+        "email": "1234@gmail.com",
         "work": "WWWWWWWWWWWWWWWWW",
-        "photos": [
-         "https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif"
-        ]
+        "photos": ["https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif"]
       },
+
       "time": "18:23:21",
       "date": "12/11/2024",
       "status": 0,
