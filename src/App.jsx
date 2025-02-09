@@ -3,7 +3,6 @@ import {
 } from 'react-router'
 
 import Dashboard from './Components/Dashboard'
-import Person from './Components/Person'
 import People from './Components/People'
 import AddPerson from './Components/AddPerson'
 import Navbar from './Components/Navbar'
@@ -17,7 +16,6 @@ function App() {
     <Navbar/>
     <div className='flex flex-col basis-full'>
     <Routes>
-        <Route path="/people/:id" element={<Person/>} />
         <Route path="/" element={<Dashboard/>} />
         <Route path="/people" element={<People />} />
         <Route path="/addperson" element={<AddPerson/>} />

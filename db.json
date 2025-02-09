@@ -13,7 +13,7 @@
       "email" : "hmr23@mail.aub.edu",
       "work": "WWWWWWWWWWWWWWWWW",
       "photos" :["https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU"]
-    }, 
+    },
     {
       "firstName": "Hamza",
       "lastName": "El Rachdi",
@@ -62,6 +62,7 @@
       "time" : "10:23:21",
       "date" : "12/10/2024",
       "status" : 1,
+      "id":2,
       "photo" : "https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif"
     },
     {
@@ -82,16 +83,18 @@
       "time" : "18:23:21",
       "date" : "12/11/2024",
       "status" : 0,
+      "id":1,
       "photo" : "https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU"
     },
     {
     "person" : {
-      "firstName": "Unauthorized",
+      "firstName": "Unknown Intruder",
       "lastName": ""
     },
     "time" : "13:28:01",
     "date" : "12/14/2024",
-    "status" : 2,
+    "status" : 3,
+    "id":3,
     "photo" : "https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU"
   }
   ]

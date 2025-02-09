@@ -16,7 +16,7 @@ const Navbar = () => {
     <header className='shadow-sm min-w-fit w-9/10 place-self-center m-4 fixed box-border z-20 text-gray-600 flex flex-row bg-light bg-neutral-100/70  border-1 border-gray-200/70 rounded-xl align-middle'>
       <nav className='mr-auto w-full flex flex-row align-middle md:flex-nowrap flex-wrap'>
       <Logo/>
-      <ul className=' flex align-middle w-full pl-4 '>
+      <ul className=' flex align-middle w-full md:pl-4 pl-0 '>
         <div className='flex align-middle pt-1.5 '>
         <Item link = "/">Dashboard</Item>
         <Item link = "/people">People</Item>
