@@ -39,7 +39,7 @@ const People = () => {
           name="search"
         />
       </div>
-      <h1 className='text-4xl font-extrabold font-stretch-expanded text-gray-700 mt-10 ml-5'>{search.value ? `Showing results for: "${search.value}"`: "Showing all documents"}</h1>
+      <h1 className='text-4xl font-extrabold font-stretch-expanded text-gray-700 mt-10 ml-5'>{search.value ? `Showing results for: "${search.value}"`: "Showing all People"}</h1>
       <div className='flex align-middle  flex-col justify-center min-h-128 max-h-fit'>
       {shown}
       </div>
