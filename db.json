@@ -1,0 +1,32 @@
+{
+  "people" : [
+    {
+      "firstName": "Hamza",
+      "lastName": "El Rachdi",
+      "age": 19,
+      "floor": 3,
+      "orientation": "R",
+      "relationship": "Single",
+      "kids": 0,
+      "gender": "Male",
+      "id": 1, 
+      "email" : "hmr23@mail.aub.edu",
+      "work": "none",
+      "photos" :["https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU"]
+    }, 
+    {
+      "firstName": "Someone",
+      "lastName": "El someone",
+      "age": 100 ,
+      "floor": 100,
+      "orientation": "L",
+      "relationship": "Married",
+      "kids": 100,
+      "gender": "Female",
+      "id":2, 
+      "email" : "someone@email.com",
+      "work": "none",
+      "photos" :["https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif"]
+    }
+  ]
+}
