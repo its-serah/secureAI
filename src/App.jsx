@@ -13,9 +13,9 @@ import Logs from './Components/Logs'
 function App() {
 
   return (
-    <div className='w-full h-screen flex flex-col'>
+    <div className='w-full ease-in-out h-screen flex flex-col'>
     <Navbar/>
-    <div className='flex  flex-col basis-full'>
+    <div className='flex flex-col basis-full'>
     <Routes>
         <Route path="/people/:id" element={<Person/>} />
         <Route path="/" element={<Dashboard/>} />

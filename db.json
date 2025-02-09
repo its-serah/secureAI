@@ -11,7 +11,21 @@
       "gender": "Male",
       "id": 1, 
       "email" : "hmr23@mail.aub.edu",
-      "work": "none",
+      "work": "WWWWWWWWWWWWWWWWW",
+      "photos" :["https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU"]
+    }, 
+    {
+      "firstName": "Hamza",
+      "lastName": "El Rachdi",
+      "age": 19,
+      "floor": 3,
+      "orientation": "R",
+      "relationship": "Single",
+      "kids": 0,
+      "gender": "Male",
+      "id": 33, 
+      "email" : "hmr23@mail.aub.edu",
+      "work": "WWWWWWWWWWWWWWWWW",
       "photos" :["https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU"]
     }, 
     {
@@ -28,5 +42,57 @@
       "work": "none",
       "photos" :["https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif"]
     }
+  ],
+  "logs" : [
+    {
+      "person" : {
+        "firstName": "Someone",
+        "lastName": "El someone",
+        "age": 100 ,
+        "floor": 100,
+        "orientation": "L",
+        "relationship": "Married",
+        "kids": 100,
+        "gender": "Female",
+        "id":2, 
+        "email" : "someone@email.com",
+        "work": "none",
+        "photos" :["https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif"]
+      },
+      "time" : "10:23:21",
+      "date" : "12/10/2024",
+      "status" : 1,
+      "photo" : "https://cdn.vectorstock.com/i/2000v/92/68/black-silhouette-of-bust-a-young-woman-vector-54239268.avif"
+    },
+    {
+      "person" : {
+        "firstName": "Hamza",
+        "lastName": "El Rachdi",
+        "age": 19,
+        "floor": 3,
+        "orientation": "R",
+        "relationship": "Single",
+        "kids": 0,
+        "gender": "Male",
+        "id": 33, 
+        "email" : "hmr23@mail.aub.edu",
+        "work": "WWWWWWWWWWWWWWWWW",
+        "photos" :["https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU"]
+      },
+      "time" : "18:23:21",
+      "date" : "12/11/2024",
+      "status" : 0,
+      "photo" : "https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU"
+    },
+    {
+    "person" : {
+      "firstName": "Unauthorized",
+      "lastName": ""
+    },
+    "time" : "13:28:01",
+    "date" : "12/14/2024",
+    "status" : 2,
+    "photo" : "https://media.licdn.com/dms/image/v2/D4E03AQGawkIL3VPrmg/profile-displayphoto-shrink_400_400/B4EZTVjqNZGgAg-/0/1738749683198?e=1744243200&v=beta&t=gry8luIfd6p-diyL2ji_bM1FgyXQ9W9I6sGQhnYmKKU"
+  }
   ]
 }
